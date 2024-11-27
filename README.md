@@ -27,7 +27,7 @@ Download Selenium JAR files:
 Visit:  Downloads in Selenium.dev
 Go to Java download the lastest version
 After downloading extract the files
-Now again go back to the website click on downloads
+5.Now again go back to the website click on downloads
 Scroll down till platforms supported by selenium
 Expand the Browsers option
 Choose Firefox
